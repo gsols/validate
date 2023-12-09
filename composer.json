@@ -1,0 +1,22 @@
+{
+  "name": "gsols/validate",
+  "description": "PHP Protobuf implementation for protoc-gen-validate",
+  "license": "Apache-2.0",
+  "type": "library",
+  "version": "0.1.0",
+  "keywords": [
+    "proto",
+    "grpc",
+    "php"
+  ],
+  "autoload": {
+    "psr-4": {
+      "GPBMetadata\\": "src/GPBMetadata",
+      "Validate\\": "src/Validate"
+    }
+  },
+  "require": {
+    "php": "^7|^8",
+    "google/common-protos": "^4.5"
+  }
+}
