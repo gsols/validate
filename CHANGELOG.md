@@ -5,6 +5,23 @@
 
 ### Features
 
+* initial release ([6b938f9](https://github.com/gsols/validate/commit/6b938f901d58bc849513ce80c97d17ae364db994))
+
+
+### Bug Fixes
+
+* typo ([87c5250](https://github.com/gsols/validate/commit/87c525001b26652efd963159a54915b45baa36a9))
+
+
+### Miscellaneous Chores
+
+* release 0.1.0 ([afe5fb2](https://github.com/gsols/validate/commit/afe5fb22f4cf1bacca2710b54c0e6dc75bc70130))
+
+## 0.1.0 (2023-12-09)
+
+
+### Features
+
 * fix requirements ([312e320](https://github.com/gsols/validate/commit/312e3201efeb291f8c9e7de747e2e37e1860738b))
 * initial release ([df8eb6c](https://github.com/gsols/validate/commit/df8eb6ced071fb99228c4c81c5452f3de3e8a828))
 * remove unused dependency ([40dc762](https://github.com/gsols/validate/commit/40dc762744c73081b0893f0607d1b144829da0fd))
