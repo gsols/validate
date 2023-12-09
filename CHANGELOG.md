@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/gsols/validate/compare/v0.1.0...v0.1.1) (2023-12-09)
+
+
+### Miscellaneous Chores
+
+* update readme ([00b23d1](https://github.com/gsols/validate/commit/00b23d1ca2fd80fc871822e78a283b8959683a99))
+
 ## 0.1.0 (2023-12-09)
 
 
