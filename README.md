@@ -9,6 +9,9 @@ This is not an official implementation. It is only a compiled version of the PHP
 And since the official repository was made using proto2 syntax, this implementation has removed the following 
 to make it compatible with proto3 syntax.
 
+This is intended for internal use only. If you want to use this, please use it at your own risk.
+This package is not maintained and will not be updated.
+
 - `default` field option
     - When using proto3 syntax, the `default` field option is not allowed and was removed from the following rules:
       `StringRules` field `strict`. The default value was `true`.
